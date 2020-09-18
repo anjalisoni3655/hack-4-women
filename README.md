@@ -1,31 +1,30 @@
 # Hack4Women
 
-## We are making this project for the "#Hack4Woman" GIRLSCRIPT INDIA SUMMIT 2020 Hackathon
+## We are making this project for the Hack4Women GIRLSCRIPT INDIA SUMMIT 2020 Hackathon
 
 We are building a website where we will connect these rural women to the consumers directly without any intermediate traders.
 We will have a database of all those women who want to sell their product to the market, and then the consumers can directly connect
 to them, by locating their positions using the MAP APIs.
 
-
-
 ### OUR APPROACH
-
-1)Building a website to connect rural women to the big market.
-
-2)Using the map APIs to track the location of those women.
-
-3)Store the details of them in a structured database.
-
-
+- Building a website to connect rural women to the big market.
+- Using the map APIs to track the location of those women.
+- Store the details of them in a structured database.
 
 ### TECH STACKS USED
 
-React, TypeScript, HTML, SCSS
-
+- React
+- TypeScript
+- HTML
+- SCSS
 
 ### TEAM MEMBERS
 
-Prince Srivastav, Meghna Sharma, Harshita Raj,Avula Babitha Lakshmi Sai, Anjali Soni
+- Prince Srivastav
+- Meghna Sharma
+- Harshita Raj
+- Avula Babitha Lakshmi Sai
+- Anjali Soni
 
 ### For running it on localhost
 
