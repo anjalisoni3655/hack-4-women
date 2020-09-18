@@ -12,6 +12,7 @@ function App() {
       <Navbar/>
       <Landing/>
       <Section1/>
+      <Features/>
     </div>
   );
 }
