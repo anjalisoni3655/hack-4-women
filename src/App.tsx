@@ -4,6 +4,7 @@ import Landing from "./components/landing/landing";
 import Navbar from "./components/navbar/navbar";
 import Section1 from "./components/section1/section1";
 import Features from "./components/features/features";
+import Footer from "./components/footer/footer"
 
 
 function App() {  
@@ -13,6 +14,7 @@ function App() {
       <Landing/>
       <Section1/>
       <Features/>
+      <Footer/>
     </div>
   );
 }
