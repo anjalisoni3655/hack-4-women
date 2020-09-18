@@ -28,9 +28,9 @@ React, TypeScript, HTML, SCSS
 Prince Srivastav, Meghna Sharma, Harshita Raj,Avula Babitha Lakshmi Sai, Anjali Soni
 
 ### For running it on localhost
-`<code>clone the project</code>`
-`Open the terminal and <code>yarn install</code>`
-`<code>yarn run start</code>`
+`clone the project`
+Open the terminal and `yarn install`
+`yarn run start`
 
 ## Available Scripts
 
