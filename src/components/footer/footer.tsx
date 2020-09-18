@@ -7,7 +7,7 @@ const Footer: React.FC = () => {
       <div className="container">
             <div className="row">
                   <div className="col-sm-6 col-md-6">	
-                        <p className="copyright">Copyrights © 2020. All rights reserved.</p>
+                        <p className="copyright">Copyrights © 2020 Abstract. All rights reserved.</p>
                   </div>
                   {/* <div className="hidden-xs col-sm-6 col-md-6 text-right">
                         <ul className="list-unstyled no-list-style list-inline list-socials">
