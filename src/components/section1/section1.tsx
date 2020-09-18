@@ -9,27 +9,27 @@ const section1: React.FC = () => {
                                   <div className="col-lg-4 col-md-4 col-sm-4">
                                         <figure className="min-feature">
                                               <div className="image">
-                                                    <a href="#top"><img src="images/featured-image1.jpg"
+                                                    <a href="#top"><img height={205} src="images/featured-image1.jpg"
                                                                         className="img-responsive" alt="Featured Image"/></a>
                                               </div>
                                               <img src="images/min-feature-shadow.png" className="shadow img-responsive"
                                                    alt="Shadow"/>
                                                     <div className="text">
-                                                          <h3>Organic</h3>
-                                                          <h4>HELATHY</h4>
+                                                          <h3>Khadi</h3>
+                                                          <h4>Clothes</h4>
                                                     </div>
                                         </figure>
                                   </div>
                                   <div className="col-lg-4 col-md-4 col-sm-4">
                                         <figure className="min-feature">
                                               <div className="image">
-                                                    <a href="#top"><img src="images/featured-image2.jpg"
+                                                    <a href="#top"><img height={205} src="images/featured-image2.jpg"
                                                                         className="img-responsive" alt="Featured Image"/></a>
                                               </div>
                                               <img src="images/min-feature-shadow.png" className="shadow img-responsive"
                                                    alt="Shadow"/>
                                                     <div className="text">
-                                                          <h3>GMO-Free</h3>
+                                                          <h3>Hand Made</h3>
                                                           <h4>GUARANTEED</h4>
                                                     </div>
                                         </figure>
@@ -37,7 +37,7 @@ const section1: React.FC = () => {
                                   <div className="col-lg-4 col-md-4 col-sm-4">
                                         <figure className="min-feature">
                                               <div className="image">
-                                                    <a href="#top"><img src="images/featured-image3.jpg"
+                                                    <a href="#top"><img height={205} src="images/featured-image3.jpg"
                                                                         className="img-responsive" alt="Featured Image"/></a>
                                               </div>
                                               <img src="images/min-feature-shadow.png" className="shadow img-responsive"
@@ -55,7 +55,7 @@ const section1: React.FC = () => {
                       <div className="row text-center">
                             <div className="col-lg-12">
                                   <h6>some word about us</h6>
-                                  <h2>We are the innovators in agricultural business</h2>
+                                  <h2>We are the innovators in khadi business</h2>
                                   <span className="title-separator"></span>
                             </div>
                       </div>
